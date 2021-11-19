@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eac2ce62-816b-4713-bcad-53030d1e6476" name="Changes" comment="FM - fixed endings of all additional files">
+    <list default="true" id="eac2ce62-816b-4713-bcad-53030d1e6476" name="Changes" comment="FM - added repo to tags">
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MyServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MyServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +92,7 @@
       <recent name="C:\Programming3\uniqueFreya12339c" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.uniqueFreya12339c [appStop]">
+  <component name="RunManager" selected="Gradle.uniqueFreya12339c [build]">
     <configuration name="uniqueFreya12339c [appRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -153,7 +156,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="uniqueFreya12339c [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="uniqueFreya12339c [buildDependents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -164,7 +167,7 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value="assemble" />
+            <option value="buildDependents" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -197,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.uniqueFreya12339c [build]" />
+        <item itemvalue="Gradle.uniqueFreya12339c [buildDependents]" />
         <item itemvalue="Gradle.uniqueFreya12339c [appStop]" />
         <item itemvalue="Gradle.uniqueFreya12339c [appStart]" />
         <item itemvalue="Gradle.uniqueFreya12339c [appRun]" />
-        <item itemvalue="Gradle.uniqueFreya12339c [build]" />
-        <item itemvalue="Gradle.uniqueFreya12339c [assemble]" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +216,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637249440893</updated>
-      <workItem from="1637249442234" duration="6084000" />
+      <workItem from="1637249442234" duration="6789000" />
     </task>
     <task id="LOCAL-00001" summary="FM - New Servlet that works!">
       <created>1637250068125</created>
@@ -264,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637313511293</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="FM - added repo to tags">
+      <created>1637313917281</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1637313917281</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -287,6 +297,7 @@
     <MESSAGE value="FM - Gitignore" />
     <MESSAGE value="FM - fixed travis.yml" />
     <MESSAGE value="FM - fixed endings of all additional files" />
-    <option name="LAST_COMMIT_MESSAGE" value="FM - fixed endings of all additional files" />
+    <MESSAGE value="FM - added repo to tags" />
+    <option name="LAST_COMMIT_MESSAGE" value="FM - added repo to tags" />
   </component>
 </project>
