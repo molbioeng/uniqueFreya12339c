@@ -17,3 +17,5 @@ deploy:
   skip_cleanup: true
   on:
     tags: true
+    repo: molbioeng/uniqueFreya12339c
+    branch: master
