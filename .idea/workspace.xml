@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eac2ce62-816b-4713-bcad-53030d1e6476" name="Changes" comment="FM - fixed endings of all additional files" />
+    <list default="true" id="eac2ce62-816b-4713-bcad-53030d1e6476" name="Changes" comment="FM - fixed endings of all additional files">
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +69,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2166xq2gpgCJWqK1ZyAEfxyHxSP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -86,7 +95,28 @@
       <recent name="C:\Programming3\uniqueFreya12339c" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.uniqueFreya12339c [build]">
+  <component name="RunManager" selected="Gradle.uniqueFreya12339c [appStop]">
+    <configuration name="uniqueFreya12339c [appRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="appRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="uniqueFreya12339c [appStart]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -173,9 +203,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.uniqueFreya12339c [build]" />
         <item itemvalue="Gradle.uniqueFreya12339c [appStop]" />
         <item itemvalue="Gradle.uniqueFreya12339c [appStart]" />
+        <item itemvalue="Gradle.uniqueFreya12339c [appRun]" />
+        <item itemvalue="Gradle.uniqueFreya12339c [build]" />
         <item itemvalue="Gradle.uniqueFreya12339c [assemble]" />
       </list>
     </recent_temporary>
@@ -188,7 +219,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637249440893</updated>
-      <workItem from="1637249442234" duration="4544000" />
+      <workItem from="1637249442234" duration="5631000" />
     </task>
     <task id="LOCAL-00001" summary="FM - New Servlet that works!">
       <created>1637250068125</created>

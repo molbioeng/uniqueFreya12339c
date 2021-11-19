@@ -13,7 +13,7 @@ cache:
 deploy:
   provider: heroku
   api_key: 20daf05c-24c2-4967-95cc-184bb11de775
-  app: uniqueFreya12339c
+  app: uniquefreya12339c
   skip_cleanup: true
   on:
     tags: true
