@@ -14,7 +14,7 @@ public class MyServlet extends HttpServlet {
                 resp.getWriter().write("<ul class=\"level-one\">\n" +
                         "<li>\n" +
                         "<p class=\"first-para\"><b>Headings:</b> </p>\n" +
-                        "<h1>Top heading</h1>\n" +
+                        "<h1>Beautiful heading that works because i tagged this</h1>\n" +
                         "<p>, </p>\n" +
                         "<h2 id=\"tab5\">Next-level heading</h2>\n" +
                         "<p>, … </p>\n" +
